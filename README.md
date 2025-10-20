@@ -55,24 +55,9 @@ Um projeto simples desenvolvido com HTML, CSS e JavaScript puro para buscar e ex
 Não há necessidade de instalação de dependências. Basta seguir os passos:
 
  
+1. Clone este repositório ou clique no link :
+2. Abra o arquivo `index.html` no seu navegador de preferência.
 
-1.  Clone este repositório:
-
-    ```bash
-
-    git clone [https://github.com/SEU_USUARIO/github-profile-finder.git](https://github.com/SEU_USUARIO/github-profile-finder.git)
-
-    ```
-
-2.  Navegue até o diretório do projeto:
-
-    ```bash
-
-    cd github-profile-finder
-
-    ```
-
-3.  Abra o arquivo `index.html` no seu navegador de preferência.
 
  
 
