@@ -55,7 +55,7 @@ Um projeto simples desenvolvido com HTML, CSS e JavaScript puro para buscar e ex
 Não há necessidade de instalação de dependências. Basta seguir os passos:
 
  
-1. Clone este repositório ou clique no link :
+1. Clone este repositório ou clique no link : https://gyopiva.github.io/Buscador_de_Perfis_Github/
 2. Abra o arquivo `index.html` no seu navegador de preferência.
 
 
